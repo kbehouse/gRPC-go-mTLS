@@ -1,8 +1,8 @@
 # Hello gRPC with goLang
 
-[gRPC helloworld](https://github.com/kbehouse/gRPC-go-mTLS/helloworld/) & 
+[gRPC helloworld](https://github.com/kbehouse/gRPC-go-mTLS/tree/master/helloworld) & 
 
-[gRPC mTLS (mutual TLS) helloworld](https://github.com/kbehouse/gRPC-go-mTLS/helloworld_mTLS/)
+[gRPC mTLS (mutual TLS) helloworld](https://github.com/kbehouse/gRPC-go-mTLS/tree/master/helloworld_mTLS)
 
 ## Intro
 
