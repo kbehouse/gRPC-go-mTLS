@@ -1,0 +1,90 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 16753714374873827915 (0xe88126757eb5ca4b)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Denial, L=Springfield, O=Dis, CN=localhost
+        Validity
+            Not Before: Sep  3 08:12:19 2019 GMT
+            Not After : Aug 29 08:12:19 2039 GMT
+        Subject: C=US, ST=Denial, L=Springfield, O=Dis, CN=localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:a3:04:84:7a:d0:a1:1b:1f:35:49:c1:c1:97:cc:
+                    7a:e3:7e:7e:60:99:ce:ad:93:a0:b3:54:b7:cc:f6:
+                    2f:e4:bd:69:02:e1:dc:88:cf:37:6f:81:60:f8:30:
+                    83:12:76:2f:cd:03:c6:91:f3:13:76:b8:2c:10:3b:
+                    bd:70:7f:8e:b1:4d:fc:3d:72:88:f5:78:2e:a3:1e:
+                    21:6e:ac:0b:4b:df:b8:ea:08:2a:76:ad:04:ea:2d:
+                    c3:c3:c6:9c:96:6d:a6:dc:10:51:19:e9:50:ec:4c:
+                    ea:14:c3:7d:ea:9f:a7:17:dc:b4:85:1f:0a:8e:5f:
+                    f9:d8:de:b2:70:90:01:64:48:0c:20:a4:8e:34:b8:
+                    cb:4a:d6:b4:7e:a1:c6:c7:4f:fa:4c:b3:b8:d0:d5:
+                    4d:d4:da:57:a7:19:78:51:4e:27:c7:cf:39:a3:f1:
+                    28:18:42:53:81:39:ba:66:7f:17:99:d8:d9:fa:05:
+                    f5:6b:0a:72:2f:c0:d7:f3:59:ec:99:2e:39:3f:ce:
+                    a2:bb:13:2d:39:40:ef:82:db:38:2a:95:19:a6:f8:
+                    d3:a9:94:7c:6f:40:9d:c5:ec:25:8b:4f:d5:13:00:
+                    f7:82:40:00:6f:27:08:50:8e:a0:56:70:29:d6:eb:
+                    b7:59:5b:67:4e:18:a2:6c:d1:d6:50:67:db:0c:32:
+                    fd:f3:67:fc:7a:55:44:3d:49:e0:52:3b:c1:2e:d0:
+                    8e:cb:de:c9:2b:83:31:72:11:f8:e5:5b:9f:e7:92:
+                    84:90:cf:eb:b0:c9:39:f8:f1:94:88:f1:b9:e0:3d:
+                    8e:8f:f5:48:78:90:5f:3f:5f:ea:cd:b0:77:74:30:
+                    c2:c3:df:38:14:96:90:e6:64:46:6d:67:b1:0b:c4:
+                    3a:0a:e1:ce:67:13:21:d9:52:45:1d:80:04:d8:0d:
+                    d7:60:ab:13:af:81:00:41:16:49:3d:0b:e1:f7:0e:
+                    6f:56:fc:9f:34:5d:20:38:04:f0:2e:e4:3b:a5:8f:
+                    a3:be:ce:b9:ce:ed:0a:b7:93:e0:39:2c:f1:5d:44:
+                    a8:91:2e:c0:35:5c:38:b9:09:49:d5:74:e9:fc:6f:
+                    4d:41:47:bb:ae:87:d7:8d:44:44:95:4b:c2:ad:05:
+                    a5:bb:bd:4d:37:dd:95:60:20:9d:e6:13:1d:66:6a:
+                    a2:42:5e:87:2e:42:82:29:88:16:fa:1a:57:23:1b:
+                    d0:ea:9a:0b:83:21:37:df:de:a7:00:fd:0f:e8:e0:
+                    46:79:97:1b:de:30:60:20:35:78:11:61:80:a7:0f:
+                    56:e1:7a:e3:c3:12:ea:b7:5a:13:91:d0:3c:5d:8b:
+                    f6:6b:b2:d3:36:71:03:33:a3:e3:0a:9b:b7:c4:71:
+                    08:88:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6E:70:B6:D3:19:89:EB:FF:9F:0A:23:EE:23:F7:EC:45:02:CF:DF:7D
+            X509v3 Authority Key Identifier: 
+                keyid:6E:70:B6:D3:19:89:EB:FF:9F:0A:23:EE:23:F7:EC:45:02:CF:DF:7D
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+    Signature Algorithm: sha256WithRSAEncryption
+         72:35:30:9a:30:40:95:7b:9c:a1:72:ba:41:d4:d2:50:d9:7b:
+         ea:b0:2b:53:1e:68:11:08:f1:0e:f0:c6:72:02:e4:ef:4c:13:
+         61:8e:61:8c:e3:02:5c:b2:ef:73:d3:28:36:33:ca:e1:fb:99:
+         5a:df:7d:c4:0a:c7:53:9f:e3:83:c9:c9:6a:9a:0a:3d:62:26:
+         eb:62:0a:87:23:5f:b3:a8:1b:c4:31:22:14:ae:e0:af:cb:b9:
+         7b:4f:f5:18:55:18:bb:03:51:1d:4a:54:a8:52:da:3e:ae:aa:
+         85:61:a1:cb:19:16:51:21:0f:21:17:c0:42:c4:c9:61:22:8c:
+         a2:49:89:82:16:77:72:7c:90:f1:aa:98:7f:f7:67:5c:1e:3a:
+         00:15:d7:5c:17:fd:43:2f:3d:47:e4:99:12:5e:6c:09:b3:a8:
+         46:2d:27:74:9b:c6:b6:5b:1e:b6:50:71:40:54:18:ea:b8:af:
+         de:db:e6:89:27:08:8e:ce:ac:8e:ed:66:c1:8a:0e:72:9b:a3:
+         f2:29:f5:17:fb:83:6c:61:b4:e3:d5:81:33:36:42:7b:45:fc:
+         9e:ae:ce:83:c3:41:f1:e9:ab:c2:1b:10:1b:8f:74:3d:c7:3e:
+         66:1a:f7:9b:e3:4e:10:39:d7:53:fb:88:cc:cf:56:42:5a:4b:
+         fa:7a:60:60:9c:44:f3:ba:46:79:16:4f:9a:ea:97:f1:aa:7c:
+         cc:a8:f7:ad:91:85:f2:65:b0:12:bb:83:a8:ea:8a:d2:af:c9:
+         c9:08:db:b1:17:63:6e:63:5b:a0:cc:43:6c:af:14:37:51:f1:
+         4a:43:b7:4a:83:8f:b1:8b:39:17:5e:df:f3:91:27:43:d4:24:
+         6c:6c:15:c6:74:eb:f4:77:69:86:0e:b5:22:8f:f8:2c:9d:72:
+         da:1b:b8:46:97:ca:21:85:f6:f5:ec:0c:2b:47:5b:1a:18:e7:
+         24:59:3c:53:9d:de:0a:98:af:a6:32:f8:9d:e9:38:23:8a:95:
+         d7:73:d6:df:f9:44:28:42:cf:a0:09:d2:25:c4:63:b1:59:aa:
+         00:78:4a:f5:3d:7a:d3:45:16:ad:f0:ec:34:c1:7b:63:ca:c3:
+         c0:92:e6:38:c5:7b:d3:ec:e8:74:e3:81:41:50:f0:5a:4e:64:
+         bb:a7:6c:18:7f:c8:37:23:6c:89:df:e1:46:4c:c9:c6:05:74:
+         b8:26:39:3c:f5:7a:45:ed:d3:4c:ba:5a:50:d9:3e:b9:59:8c:
+         b3:a6:5f:ef:3f:ec:fa:5c:dc:91:3a:85:4f:95:76:e4:f7:96:
+         e5:8e:51:22:b2:f9:61:1a:cc:a4:60:a6:8a:fb:74:33:66:94:
+         cc:12:a3:6d:5f:ed:e9:3b
